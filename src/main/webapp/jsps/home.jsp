@@ -15,7 +15,7 @@
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h5>
 	<h1 align="center">Watch out for ME !!!!!</h1>
 	<h1 align="center">Iam next in line.</h1>
-	<h1 align="center">God is faithfull</h1
+	<h1 align="center">God is faithfull</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
