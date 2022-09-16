@@ -14,7 +14,7 @@
 	           We are raising over 1m millionaires by 2030.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h3>
 	<h1 align="center">Watch out for ME !!!!!</h1>
-	<h1 align="center">Iam next in line.</h1>
+	<h1 align="center">I am next in line.</h1>
 	<h1 align="center">God is faithfull</h1>
 <hr>
 <br>
